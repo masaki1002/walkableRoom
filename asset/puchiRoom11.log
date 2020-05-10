@@ -1,0 +1,103 @@
+Exporter version: 6.3.1, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\masaki.oeda\Desktop\babylonjs.projects\customModel\public\asset\
+	Python World class constructor completed
+	processing begun of mesh:  greenCube.001
+		processing begun of material:  object.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  orangeCube.001
+		processing begun of material:  wall.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  orangeCube.003
+		processing begun of material:  ceiling
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  orangeCube.002
+		processing begun of material:  wall.001
+		registered as also a user of material:  wall.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  orangeCube.004
+		processing begun of material:  object02.006
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  orangeCube.005
+		processing begun of material:  ceiling.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  greenCube
+		processing begun of material:  object
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  orangeCube
+		processing begun of material:  object02
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of light (HEMI FROM AREA):  Area.001
+	processing begun of light (DIRECTIONAL):  Sun
+	processing begun of light (POINT):  Point
+	processing begun of light (HEMI FROM AREA):  Area
+========= Writing of JSON file started =========
+	writing mesh:  greenCube.001
+	writing mesh:  orangeCube.001
+	writing mesh:  orangeCube.003
+	writing mesh:  orangeCube.002
+	writing mesh:  orangeCube.004
+	writing mesh:  orangeCube.005
+	writing mesh:  greenCube
+	writing mesh:  orangeCube
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0592 secs
